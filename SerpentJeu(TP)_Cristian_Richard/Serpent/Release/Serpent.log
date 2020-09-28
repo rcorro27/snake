@@ -1,0 +1,8 @@
+﻿  RockUtiles.cpp
+c:\users\chris\source\repos\serpentjeu(tp)\serpent\rockutiles.cpp(102): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  souris.cpp
+c:\users\chris\source\repos\serpentjeu(tp)\serpent\souris.cpp(57): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  All 29 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Serpent.vcxproj -> C:\Users\chris\source\repos\SerpentJeu(TP)\Release\Serpent.exe

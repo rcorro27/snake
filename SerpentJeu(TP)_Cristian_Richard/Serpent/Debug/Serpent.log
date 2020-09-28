@@ -1,0 +1,3 @@
+﻿  souris.cpp
+c:\users\chris\source\repos\serpentjeu(tp)\serpent\souris.cpp(57): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Serpent.vcxproj -> C:\Users\chris\source\repos\SerpentJeu(TP)\Debug\Serpent.exe
